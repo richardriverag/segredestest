@@ -1,3 +1,2 @@
 ssh miguel torres prueba
-
-
+segundo commit usando GPG para verificacion de commits verificado2:
