@@ -1,2 +1,0 @@
-primer commit con ssh
-segundo commit 
