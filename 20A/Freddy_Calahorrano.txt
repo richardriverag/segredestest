@@ -1,2 +1,4 @@
 Primer commit desde Ubuntu usando criptografia de clave publica con el
 protocolo RSA de 4096 bits
+
+Segundo commit utilizando GPG
