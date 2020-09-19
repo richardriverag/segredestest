@@ -1,3 +1,2 @@
 Commit con ssh
-Segundo commit con gpg x
 
