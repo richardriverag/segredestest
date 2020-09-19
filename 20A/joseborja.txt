@@ -1,1 +1,3 @@
+
 este es mi primer commit en ubuntu a github
+segundo commit creado  para las gpg que estas utilizadas
