@@ -1,1 +1,2 @@
 commint ssh
+COMMIT GPG
