@@ -1,4 +1,9 @@
 probando la conexion de shh
 :wq
+ probando el gpg
+:wq
  
+ o 
+
+
 
