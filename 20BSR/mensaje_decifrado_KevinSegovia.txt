@@ -1,1 +1,1 @@
-buenas practicas
+buenas practicas con GPG
