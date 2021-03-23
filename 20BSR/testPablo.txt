@@ -1,2 +1,2 @@
 probando la conexion ssh
-firmando el commit con GPG Y una clave RSA de 4096 bits (por: Pablo Trujillo(
+firmando el commit con GPG Y una clave RSA de 4096 bits (por: Pablo Trujillo)
