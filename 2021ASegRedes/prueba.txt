@@ -6,3 +6,4 @@ RR: desde W11
 RR: probando si puedo firmar un commi
 Pablo Pitacuar: probando cambios desde Kali
 Erick Collaguazo: Kali|
+Johan Burbano: Cambios desde W10 usando GitBash
