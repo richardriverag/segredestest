@@ -1,2 +1,2 @@
 Probando cambios desde W10 mediante GitBash
-Porbando en un linea gpg
+Probando en un linea gpg
