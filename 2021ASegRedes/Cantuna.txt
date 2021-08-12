@@ -1,1 +1,1 @@
-Porbando cambios desde W10 mediante GitBash
+Probando cambios desde W10 mediante GitBash
