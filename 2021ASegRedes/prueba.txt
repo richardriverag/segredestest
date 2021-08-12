@@ -10,7 +10,5 @@ Pablo Pitacuar: probando cambios desde Kali
 Erick Collaguazo: Kali|
 Johan Burbano: Cambios desde W10 usando GitBash
 Johan Burbano: intentando firmar desde W10 usando GitBash
-Luis Tixi: Prueba de cambios desde git bash
->>>>>>> 5f62ab1f9268f7c063f7e5b8943eb96662f53aa
-Ivan Cantuña: Intentando cambios 
-Jessenia Rivera: Cambios desde Winndows
+Luis Tixi: Prueba de cambios desde git bas
+Ivan Cantuña: Intentando cambios desde W10 con Gitbash
