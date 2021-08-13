@@ -4,11 +4,3 @@ luego de añadir la clave ssh en kali
 Richard Rivera: p`robando cambios desde kali WSL
 RR: desde W11
 RR: probando si puedo firmar un commi
-<<<<<<< HEAD
-=======
-Pablo Pitacuar: probando cambios desde Kali
-Erick Collaguazo: Kali|
-Johan Burbano: Cambios desde W10 usando GitBash
-Johan Burbano: intentando firmar desde W10 usando GitBash
-Luis Tixi: Prueba de cambios desde git bas
-Ivan Cantuña: Intentando cambios desde W10 con Gitbash
