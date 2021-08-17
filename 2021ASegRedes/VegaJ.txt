@@ -1,4 +1,3 @@
 Texto de prueba
 Kali Linux desde VB
-JV: commit firmado
-JV: commit firmado x2
+JV: commit firmado. 
