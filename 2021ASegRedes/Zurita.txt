@@ -1,1 +1,2 @@
-RR: segunda prueba gpg
+Esto es un archivo de prueba
+Voy a probar una firma 
