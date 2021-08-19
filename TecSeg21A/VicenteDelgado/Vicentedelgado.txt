@@ -1,0 +1,5 @@
+                 VERIFICACIÓN DE SHH
+- CREAR DIRECTORIO VicenteDelgado
+- CREAR ARCHIVO VicenteDelgado
+- PRIMER COMMIT 
+- VERIFICACIÓN DE COMMIT
