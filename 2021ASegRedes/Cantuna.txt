@@ -1,3 +1,4 @@
 Probando cambios desde W10 mediante GitBash
 Probando en un linea gpg
 Agregar una firma 
+RR: firma de verificacion 
