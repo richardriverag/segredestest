@@ -1,2 +1,1 @@
-Probando conexión con ssh a github desde PC de Josue Singaña
-	
+Probando conexión con ssh a github desde PC de Josue Singaña, Segundo intento
